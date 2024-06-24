@@ -1,0 +1,28 @@
+
+#boton{
+    margin: 8px;
+}
+
+h1 {
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
+
+#modal-header{
+    background-color: #003053;
+    color: white;
+    text-align: center;
+
+}
+
+#exampleModalLabel{
+    text-align: center;
+}
+
+#modal-body{
+    background-color:#3498DB;
+    color:white;
+}
